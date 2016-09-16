@@ -3,6 +3,8 @@ Nodeschool, Sydney, Australia [![Join the chat at https://gitter.im/nodeschool/s
 
 Welcome to the Sydney, AU chapter of nodeschool
 
+[![NodeSchool Sydney Logo](https://raw.githubusercontent.com/vitalbone/sydney/master/logo/nodeschool-sydney.svg)](http://nodeschool.io/sydney)
+
 ## Website
 A website for the chapter will be up at [nodeschool.io/sydney](http://nodeschool.io/sydney) soon!
 
