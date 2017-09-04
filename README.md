@@ -7,9 +7,7 @@
 Welcome to the NodeSchool Sydney chapter's repository. We use this
 repository for our website and almost all our communication.
 
-You can see the website here: http://nodeschool.io/sydney  
-~ A new website with new event details will be coming soon! ~
-
+You can see the website here: http://nodeschool.io/sydney
 -----
 
 ## Talk to us
