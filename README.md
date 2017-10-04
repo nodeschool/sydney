@@ -16,6 +16,10 @@ We utilise [GitHub Issues](https://github.com/nodeschool/sydney/issues) like a m
 
 You can also chat with us on Gitter at http://gitter.im/nodeschool/sydney
 
+#### Mailing list
+
+If you'd like to keep up to date with all things NodeSchool, please join our [mailing list](http://eepurl.com/c5SmF5).
+
 -----
 
 ## Team
