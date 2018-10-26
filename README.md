@@ -25,6 +25,7 @@ If you'd like to keep up to date with all things NodeSchool, please join our [ma
 ## Team
 
  - Vito Belgiorno-Zegna ([Twitter](https://twitter.com/vitalbone/), [Email](mailto:bz.vito@gmail.com))
+ - Lenny Boyatzis ([GitHub](https://github.com/LennyBoyatzis))
  - [You?](https://media.giphy.com/media/xT0BKIQtbiwImriTIs/giphy.gif) (Reach out if you'd like to get involved)
 
 -----
