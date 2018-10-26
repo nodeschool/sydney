@@ -22,7 +22,8 @@ You can also chat with us on Gitter at http://gitter.im/nodeschool/sydney
 
 ## Team
 
- - Vito Belgiorno-Zegna ([Twitter](https://twitter.com/vitalbone/), [Email](mailto:bz.vito@gmail.com))
+ - Vito Belgiorno-Zegna ([GitHub](https://github.com/vitalbone), [Email](mailto:bz.vito@gmail.com))
+ - Lenny Boyatzis ([GitHub](https://github.com/LennyBoyatzis)
  - [You?](https://media.giphy.com/media/xT0BKIQtbiwImriTIs/giphy.gif) (Reach out if you'd like to get involved)
 
 -----
