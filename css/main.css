@@ -1,6 +1,5 @@
 .logo {
 	width: 180px;
-	margin-right: 40px;
 }
 
 .faqs {
@@ -10,4 +9,8 @@
 .space-pls {
 	margin-bottom: 10px;
 	margin-right: 20px;
+}
+
+.bump {
+	margin-bottom: 40px;
 }
