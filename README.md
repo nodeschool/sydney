@@ -8,7 +8,14 @@ Welcome to the NodeSchool Sydney chapter's repository. We use this
 repository for our website and almost all our communication.
 
 You can see the website here: http://nodeschool.io/sydney
------
+
+---
+
+## Resources
+
+If you're looking for helpful resources, our [wiki](https://github.com/nodeschool/sydney/wiki) has loads of links to various web development education platforms, books and videos.
+
+---
 
 ## Talk to us
 
@@ -20,15 +27,15 @@ You can also chat with us on Gitter at http://gitter.im/nodeschool/sydney
 
 If you'd like to keep up to date with all things NodeSchool, please join our [mailing list](http://eepurl.com/c5SmF5).
 
------
+---
 
 ## Team
 
- - Vito Belgiorno-Zegna ([Twitter](https://twitter.com/vitalbone/), [Email](mailto:bz.vito@gmail.com))
- - Lenny Boyatzis ([GitHub](https://github.com/LennyBoyatzis))
- - [You?](https://media.giphy.com/media/xT0BKIQtbiwImriTIs/giphy.gif) (Reach out if you'd like to get involved)
+- Vito Belgiorno-Zegna ([Twitter](https://twitter.com/vitalbone/), [Email](mailto:bz.vito@gmail.com))
+- Lenny Boyatzis ([GitHub](https://github.com/LennyBoyatzis))
+- [You?](https://media.giphy.com/media/xT0BKIQtbiwImriTIs/giphy.gif) (Reach out if you'd like to get involved)
 
------
+---
 
 ## Special thanks
 
